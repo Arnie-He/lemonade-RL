@@ -1,5 +1,54 @@
 # CS1440/2440 Lab 4: Lemonade Stand
 
+## Training for 100 rounds:
+Results: 
+                   Agent Name  Average Utility  Final Score
+2                       Bug2      8491.833333     8.491833
+0  Arnie the lemonade seller      8327.166667     8.327167
+1                       Bug1      8120.500000     8.120500
+3                       Bug3      7533.833333     7.533833
+4                       Bug4      7526.666667     7.526667
+
+
+## Testing with this trained weights
+Results: 
+                    Agent Name  Average Utility  Final Score
+0  Arnie the lemonade seller      8192.333333     8.192333
+1                       Bug1      8136.500000     8.136500
+2                       Bug2      7963.166667     7.963167
+4                       Bug4      7890.500000     7.890500
+3                       Bug3      7817.500000     7.817500
+
+
+
+My model runs super slow, so if it timed out please see the above results.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Introduction
 Get ready to compete in our first non-chicken game: The Lemonade Stand Game! You'll be setting up your lemonade stand, and developing an agent (either with RL or without it) using the techniques learned in the past 3 labs! This lab will be remote and much more free form. I hope you all have fun! 
 
